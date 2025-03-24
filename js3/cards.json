@@ -1,0 +1,67 @@
+{"cards":[
+    {
+      "id": "kovra",
+      "name": "Kovra",
+      "url": "cards/card_kovra.png"
+    },
+    {
+      "id": "nevi",
+      "name": "Nevi",
+      "url": "cards/card_nevi.png"
+    },
+    {
+      "id": "mekka",
+      "name": "Mekka",
+      "url": "cards/card_mekka.png"
+    },
+    {
+      "id": "redji",
+      "name": "Redji",
+      "url": "cards/card_redji.png"
+    },
+    {
+      "id": "kin",
+      "name": "Kin",
+      "url": "cards/card_kin.png"
+    },
+    {
+      "id": "lin",
+      "name": "Lin",
+      "url": "cards/card_lin.png"
+    },
+    {
+      "id": "remi",
+      "name": "Remi",
+      "url": "cards/card_remi.png"
+    },
+    {
+      "id": "mortis",
+      "name": "Mortis",
+      "url": "cards/card_mortis.png"
+    },
+    {
+      "id": "rena",
+      "name": "Rena",
+      "url": "cards/card_rena.png"
+    },
+    {
+      "id": "madlen",
+      "name": "Madlen",
+      "url": "cards/card_madlen.png"
+    },
+    {
+      "id": "kallas",
+      "name": "Kallas",
+      "url": "cards/card_kallas.png"
+    },
+    {
+      "id": "richi",
+      "name": "Richi",
+      "url": "cards/card_richi.png"
+    },
+    {
+      "id": "linda",
+      "name": "Linda",
+      "url": "cards/card_linda.png"
+    }
+  ]}
