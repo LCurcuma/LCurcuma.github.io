@@ -1,4 +1,4 @@
-{"cards":[
+[
     {
       "id": "kovra",
       "name": "Kovra",
@@ -64,4 +64,4 @@
       "name": "Linda",
       "url": "cards/card_linda.png"
     }
-  ]}
+  ]
